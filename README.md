@@ -26,3 +26,7 @@ Particolare enfasi è posta sull'incremento degli acquisti conclusi con successo
 orientando gli operatori a proporre al cliente prodotti in modo più mirato e il più possibile in linea con le preferenze espresse.
 
 ***
+>[!TIP]
+>Tutta la documentazione di progetto è stata scritta in linguaggio Markdown, nella declinazione [Github Flavored](https://github.github.com/gfm/#what-is-github-flavored-markdown-).  
+>Se ne consiglia quindi la visione tramite Github o un editor di testo compatibile con GFM.
+***
