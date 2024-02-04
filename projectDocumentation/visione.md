@@ -45,6 +45,8 @@ il sistema deve permettere l’inserimento in archivio di nuove fragranze dispon
 l’aggiornamento automatico delle disponibilità dopo ogni vendita effettuata,  
 l’aggiornamento manuale delle disponibilità per i nuovi rifornimenti,  
 e la rimozione di fragranze già presenti per dismissione del marchio o qualsivoglia altro motivo.  
+Inoltre, quando la disponibilità di un articolo scende sotto una soglia critica (da stabilire),  
+il sistema deve notificare l'utente.  
 
 #### Ricerca Base    
 Il software deve permettere la ricerca e visualizzazione delle disponibilità a inventario per brand (disponibilità di tutte le referenze del marchio)  
